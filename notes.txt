@@ -1,0 +1,5 @@
+postgress cmd commands
+1.psql -U postgres
+2.root
+3.\l
+4.\c perntodo
